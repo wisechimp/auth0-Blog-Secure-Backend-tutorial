@@ -1,0 +1,22 @@
+{
+  "name": "auth-zero-secure-backend",
+  "version": "1.0.0",
+  "description": "An API that allows users to access a restaurant menu and administrators to edit it. Build with Node, Express and Typescript.",
+  "main": "index.js",
+  "author": "Stuart Hicks",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.6",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.7",
+    "@types/helmet": "^0.0.47",
+    "@types/node": "^14.0.25",
+    "typescript": "^3.9.7"
+  }
+}
